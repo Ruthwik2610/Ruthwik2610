@@ -37,7 +37,7 @@
 - 🎮 **CTF Enthusiast** – always sharpening my skills with some good ol' Capture the Flag!
 
 ### 🌟 Looking to Connect?
-Fellow **tech enthusiasts**, **thinkers**, **explorers**, and **innovators** – hit me up on ✉️ [**Hit me up on Gmail!**](mailto:ruthwik.krishna@gmail.com) Let’s build something epic! 🚀  
+Fellow **tech enthusiasts**, **thinkers**, **explorers**, and **innovators** – reach me  on ✉️ [](mailto:ruthwik.krishna@gmail.com) Let’s build something epic! 🚀  
 Don’t be shy, I’m always up for nerdy chats or swapping travel stories. 🌍
 ### Visitor count 🧐
 ![Visitor Count](https://profile-counter.glitch.me/{wise4rmgod}/count.svg)
