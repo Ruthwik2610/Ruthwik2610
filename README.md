@@ -2,8 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<!--
-**Ruthwik2610/Ruthwik2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 👾 Welcome to Ruthwik's Cyberworld! 🌐
 🎉 About Me:
