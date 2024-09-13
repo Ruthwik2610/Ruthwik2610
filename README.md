@@ -14,7 +14,7 @@
 - 🛠️ Currently crafting **blockchain magic** & exploring the universe of **formal methods**.  
 - 💡 Problem solver, with a passion for making tech **safe**, **secure**, and...cool. 😎  
 - 🌍 Explorer at heart – if I'm not deep into code, I’m likely deep in another culture.  
-  🎮 **CTF Enthusiast** – always up for a good Capture the Flag challenge!
+- 🎮 **CTF Enthusiast** – always up for a good Capture the Flag challenge!
 
 ### 🛠️ Skills & Tools:
 - **Programming Languages**: Python, C++, Haskell, JavaScript, SQL  
