@@ -6,13 +6,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"><br><br>
 
 </div>
+
+
 ### 🎉 About Me:
-🤖 **Cybersecurity Ninja** by day, 🧘‍♂️ **Philosopher** by night.  
-🎓 **4th-year Cybersecurity Student** at **Amrita Vishwa Vidyapeetham**, sharpening my skills and expanding my horizons.  
-🛠️ Currently crafting **blockchain magic** & exploring the universe of **formal methods**.  
-💡 Problem solver, with a passion for making tech **safe**, **secure**, and...cool. 😎  
-🌍 Explorer at heart – if I'm not deep into code, I’m likely deep in another culture.  
-🎮 **CTF Enthusiast** – always up for a good Capture the Flag challenge!
+- 🤖 **Cybersecurity Ninja** by day, 🧘‍♂️ **Philosopher** by night.  
+- 🎓 **4th-year Cybersecurity Student** at **Amrita Vishwa Vidyapeetham**, sharpening my skills and expanding my horizons.  
+- 🛠️ Currently crafting **blockchain magic** & exploring the universe of **formal methods**.  
+- 💡 Problem solver, with a passion for making tech **safe**, **secure**, and...cool. 😎  
+- 🌍 Explorer at heart – if I'm not deep into code, I’m likely deep in another culture.  
+  🎮 **CTF Enthusiast** – always up for a good Capture the Flag challenge!
 
 ### 🛠️ Skills & Tools:
 - **Programming Languages**: Python, C++, Haskell, JavaScript, SQL  
