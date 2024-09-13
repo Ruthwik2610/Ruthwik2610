@@ -2,7 +2,8 @@
   <h1><b>👾 Welcome to Ruthwik's Cyberworld! 🌐</b></h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/KouuVwfTuArOWeerLM/giphy.gif" width="480" height="270" alt="Welcome GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 </div>
 
 ### 🎉 About Me:
