@@ -1,6 +1,10 @@
 <div align="center">
   <h1><b>👾 Welcome to Ruthwik's Cyberworld! 🌐</b></h1>
 </div>
+<div align="center">
+<iframe src="https://giphy.com/embed/KouuVwfTuArOWeerLM" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-motion-graphics-mograph-KouuVwfTuArOWeerLM">via GIPHY</a></p>
+</div>div
+
 
 ### 🎉 About Me:
 🤖 **Cybersecurity Ninja** by day, 🧘‍♂️ **Philosopher** by night.  
