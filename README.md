@@ -1,10 +1,9 @@
 <div align="center">
   <h1><b>👾 Welcome to Ruthwik's Cyberworld! 👾</b></h1>
 </div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
-</div>
+
+![Face Recognition GIF](https://media.giphy.com/media/3o7abnQiguzMTaYlOM/giphy.gif)
+*via GIPHY*
 
 ### 🎉 About Me:
 🤖 **Cybersecurity Ninja** by day, 🧘‍♂️ **Philosopher** by night.  
