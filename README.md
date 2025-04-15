@@ -34,8 +34,7 @@
 
 ### 🧠 Fun Facts:
 - 🌌 Can talk about the mysteries of the universe...and why smart contracts are the future of civilization.  
-- ✈️ Dreams of traveling to every country (and maybe a few planets too).  
-- 🧩 Always down for a good riddle or puzzle – especially if it involves breaking cryptography! 🕵️‍♂️  
+- ✈️ Dreams of traveling to every country .   
 - 🎮 **CTF Enthusiast** – always sharpening my skills with some good ol' Capture the Flag!
 
 ### 🌟 Looking to Connect?
