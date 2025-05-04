@@ -17,12 +17,12 @@
 - 🎮 **CTF Enthusiast** – always up for a good Capture the Flag challenge!
 
 ### 🛠️ Skills & Tools:
-- **Programming Languages**: Python, C++, Haskell, JavaScript, SQL  
+- **Programming Languages**: Python, C++, SQL  
 - **Blockchain Technologies**: Hyperledger Fabric, Ethereum, IOTA  
 - **Dev Tools**: Git, Docker, Kubernetes, Docker Swarm, AWS Cloud  
 - **Formal Methods Tools**: Coq  
 - **Cybersecurity Tools**: Burp Suite, Wireshark, Nmap, and other CTF tools  
-- **Currently Learning**: Rust  
+ 
 
 ### 🔮 What I’m Into:
 - **Blockchain Sorcery** 🏗️  
