@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>👾 Welcome to Ruthwik's Cyberworld! 👾</b></h1>
+  <h1><b>Hi, I'm Ruthwik Krishna Bandreddy</b></h1>
 </div>
 
 <div align="center">
@@ -7,38 +7,26 @@
 
 </div>
 
+I build AI applications for working with data and complex documents. My background in cybersecurity shapes how I think about reliability, clear evidence, and human oversight.
 
-### 🎉 About Me:
-- 🤖 **Cybersecurity Ninja** by day, 🧘‍♂️ **Philosopher** by night.  
-- 🎓 **4th-year Cybersecurity Student** at **Amrita Vishwa Vidyapeetham**, sharpening my skills and expanding my horizons.  
-- 🛠️ Currently crafting **blockchain magic** & exploring the universe of **formal methods**.  
-- 💡 Problem solver, with a passion for making tech **safe**, **secure**, and...cool. 😎  
-- 🌍 Explorer at heart – if I'm not deep into code, I’m likely deep in another culture.  
-- 🎮 **CTF Enthusiast** – always up for a good Capture the Flag challenge!
+### What I build
 
-### 🛠️ Skills & Tools:
-- **Programming Languages**: Python, C++, SQL  
-- **Blockchain Technologies**: Hyperledger Fabric, Ethereum, IOTA  
-- **Dev Tools**: Git, Docker, Kubernetes, Docker Swarm, AWS Cloud  
-- **Formal Methods Tools**: Coq  
-- **Cybersecurity Tools**: Burp Suite, Wireshark, Nmap, and other CTF tools  
- 
+- Natural-language tools for exploring files, databases, APIs, and connected data sources.
+- Structured document review workflows that keep people in control of the final decision.
+- Full-stack applications with Python, FastAPI, TypeScript, Next.js, DuckDB, and Streamlit.
 
-### 🔮 What I’m Into:
-- **Blockchain Sorcery** 🏗️  
-  > Making decentralized systems work like charm spells.  
-- **Cybersecurity Wizardry** 🔒  
-  > Shielding the digital realm from all kinds of villains.  
-- **Formal Methods** 🤓  
-  > Slowly but surely mastering the dark art of software verification.  
+### Selected projects
 
-### 🧠 Fun Facts:
-- 🌌 Can talk about the mysteries of the universe...and why smart contracts are the future of civilization.  
-- ✈️ Dreams of traveling to every country .   
-- 🎮 **CTF Enthusiast** – always sharpening my skills with some good ol' Capture the Flag!
+- **[Data Analysis Chatbot](https://github.com/Ruthwik2610/data-analysis-chatbot)** — A FastAPI and Next.js app for asking questions across uploaded files, databases, APIs, and MCP connections, with DuckDB handling tabular analysis.
+- **[GovDoc](https://github.com/Ruthwik2610/govdoc)** — A work-in-progress Next.js platform bringing AI-assisted document evaluation workflows into one interface.
+- **[Caltrans AI](https://github.com/Ruthwik2610/Caltrans-AI-)** — Python and Streamlit tools for project delivery and document evaluation workflows.
+- **[Explainable AI mini-project](https://github.com/Ruthwik2610/X-AI_MP-)** — An XGBoost classification project with LIME explanations for individual predictions.
 
-### 🌟 Looking to Connect?
-Fellow **tech enthusiasts**, **thinkers**, **explorers**, and **innovators** – hit me up. Let’s build something epic! 🚀  
-Don’t be shy, I’m always up for nerdy chats or swapping travel stories. 🌍
+I also have a longstanding interest in cybersecurity, formal methods, and secure software design.
+
+### Connect
+
+I'm interested in collaborating on useful AI tools, especially where people need to understand and verify the results. You can reach me through [GitHub](https://github.com/Ruthwik2610).
+
 ### Visitor count 🧐
 ![Visitor Count](https://profile-counter.glitch.me/{wise4rmgod}/count.svg)
